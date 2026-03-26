@@ -59,20 +59,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## TABULATION  
 **Transmission through Digital Link**
+<img width="773" height="1280" alt="image" src="https://github.com/user-attachments/assets/5d76884a-a7cc-4e72-ae9b-a6f47513bdd4" />
 
- (Vi = 12 V)
-
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain (Vo / Vi) | Gain (dB) |
-| -------------- | ---------------------------- | -------------- | --------- |
-| 800 Hz         | 2.5 V                        | 0.5            | 13.1      |
-| 1 kHz          | 32 V                         | 6.4            | 16.12     |
-| 2 kHz          | 34 V                         | 6.8            | 16.6      |
-| 5 kHz          | 36 V                         | 7.2            | 17.14     |
-| 10 kHz         | 37 V                         | 7.4            | 17.38     |
-| 20 kHz         | 37 V                         | 7.4            | 17.38     |
-| 50 kHz         | 27 V                         | 5.4            | 17.38     |
-| 100 kHz        | 27 V                         | 5.4            | 14.64     |
-| 250 kHz        | 12.7 V                       | 2.521          | 8.09      |
 
 
 ---
@@ -80,7 +68,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 ## MODEL GRAPH
 
 <img width="1236" height="693" alt="image" src="https://github.com/user-attachments/assets/69678b68-ac0a-41f4-b992-34f5b64d02a2" />
-<img width="1243" height="826" alt="image" src="https://github.com/user-attachments/assets/568f6171-5180-4525-b99c-924135923194" />
+<img width="1600" height="1205" alt="image" src="https://github.com/user-attachments/assets/c665faa0-55d6-4d99-8962-971979857114" />
+
 
 ---
 
